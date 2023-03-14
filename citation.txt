@@ -1,0 +1,8 @@
+@inproceedings{REPO-034,
+    author = "Xia, Zhengxu and Zhou, Yajie and Yan, Francis Y. and Jiang, Junchen",
+    booktitle = "Proceedings of the ACM SIGCOMM 2022 Conference",
+    pages = "397¨C413",
+    series = "SIGCOMM '22",
+    title = "{Genet: Automatic Curriculum Generation for Learning Adaptation in Networking}",
+    year = "2022"
+}
